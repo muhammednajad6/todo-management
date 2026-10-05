@@ -1,0 +1,15 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Buy groceries",
+      "status": "Pending"
+    },
+    {
+      "id": "_hS1f7xAUIY",
+      "title": "WIFI BILLS",
+      "status": "Completed"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
