@@ -10,7 +10,7 @@ function EditTodo() {
 
   const navigate = useNavigate();
 
-  const API_URL = "http://localhost:3000/todos";
+ const API_URL = "https://todo-api-bxqc.onrender.com/todos";
 
   useEffect(() => {
     const getTodo = async () => {
